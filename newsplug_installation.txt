@@ -1,0 +1,5 @@
+•	Unzip the NewsPlug plugin download
+•	Upload the entire NewsPlug plugin folder to your wp-content/plugins/ directory.
+•	Activate the plugin through the 'Plugins' menu in WordPress.
+•	Insert NewsPlug plugin shortcodes in any page.
+•	That's it! You're all ready to make your compaign!!

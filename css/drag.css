@@ -1,0 +1,19 @@
+			<style>
+			.draggable {
+  width: auto;
+  height: auto;
+border: 0px solid #aaaaaa;
+
+}
+.droppable {
+  width: 450px;
+  height: 200px;
+  background: lightgrey;
+  margin: 5px;
+  padding: 5px;
+ display:inline-block;
+ padding: 10px;border: 1px solid #aaaaaa;
+
+}
+#aDiv{width: 300px; height: 300px; margin: 0 auto;}
+			</style>
